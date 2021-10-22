@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using OOPAssignment.AllClasses;
+using OOPAssignment.AllEnums;
+using OOPAssignment.AllInterfaces;
+using OOPAssignment.AllStructs;
 
 namespace OOPAssignment.Test
 {
